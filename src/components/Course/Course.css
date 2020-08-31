@@ -1,0 +1,16 @@
+.course-container {
+    background-color: rgb(224, 203, 203);
+    padding-top: 40px;
+    display: flex;
+}
+.course-part {
+    width: 70%;
+    margin-right: 5px;
+    margin-left: 20px;
+    border-right: 2px solid burlywood;
+}
+.enroll-part {
+   
+   padding: 15px;
+   height: 400px;
+}
